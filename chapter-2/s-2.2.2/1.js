@@ -2,6 +2,9 @@
 var str = 'test';
 var x, y, num = 3 + 2 - 5;
 
+// 声明常量
+const PI = 3.1415;
+
 // 声明变量n
 for (var n in Object) {
   // ...
